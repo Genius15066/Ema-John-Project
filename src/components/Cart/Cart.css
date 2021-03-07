@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+.cart-style{
+    padding:10px 0px 0px 15px;
+}
+.cart-style h1{
+  margin-left:30px;
+  line-height:2;
+  color:rgb(82, 18, 233);
+}
+.cart-style h4{
+    margin-left: 80px;
+    margin-bottom:25px;
+    color:teal;
+}
+.cost-table{
+    position: relative;
+    width:100%;
+    margin-left: 15px;
+    border-collapse: collapse;
+   
+}
+table, td, th {
+    border: 1px solid rgba(206, 176, 176, 0.431);
+}
+th,td{
+    padding:5px;
+    text-align: center;
+    color:rgb(233, 18, 90);
+    font-weight:500;
+}
+th{
+    color:green;
+    background-color:rgb(155, 209, 155);
+    font-weight:700;
+}
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+tr:nth-child(even) {
+    background-color: rgb(248, 230, 230);
+}
+.cart-review-btn{
+    margin:25px 0px 0px 70px;
+}

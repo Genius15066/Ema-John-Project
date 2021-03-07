@@ -1,0 +1,8 @@
+.review-container{
+    display:flex;
+}
+
+.cart-area{
+    width:24%;
+    float:right;
+}
