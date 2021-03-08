@@ -21,8 +21,9 @@ function App() {
 
         <Switch>
           <Route exact path="/">
-          <Shop/>
+          <Shop></Shop>
           </Route>
+          
           <Route path="/shop">
             <Shop/>
           </Route>
